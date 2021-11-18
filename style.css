@@ -1,0 +1,34 @@
+.heading{
+    font-size: 28px;
+    margin: 0;
+    width: 100%;
+    box-shadow: 5px 5px grey;
+    font-family: cursive;
+}
+
+#copy_right_footer{
+    position: fixed;
+    color: rgb(0, 20, 130);
+    background-color: lightseagreen;
+    line-height: 3;
+    width: 100%;
+    bottom: 0;
+    box-shadow: 5px 5px 8px rgb(20, 141, 135);
+    font-size: 23px;
+    text-align: center;
+    font-family:initial;
+    font-weight: 500;
+}
+
+
+.note{
+    font-size: 18px;
+    color: rgb(36, 34, 34); 
+    font-weight: 650;
+}
+
+body{
+    background: url("background.jpg");
+    background-size:contain;
+}
+
